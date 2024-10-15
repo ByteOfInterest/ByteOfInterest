@@ -17,15 +17,12 @@ Hello! I'm ByteOfInterest, a passionate developer who loves coding and learning 
 
 <table>
     <tr>
-        <td colspan="2" rowspan="2">
+        <td colspan="4" rowspan="4">
             <a href = "https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark">
             </a>
         </a>
         </td>
-        <td colspan="2" rowspan="2">
-        <img src="https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark" alt="GitHub Streak">
-        </a>
         </td>
     </tr>
 </table>
