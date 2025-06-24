@@ -22,13 +22,13 @@ Hello! I'm **ByteOfInterest**, a passionate developer who loves coding and learn
 ## 📊 GitHub Stats
 
 ### 🔥 GitHub Streak
-![ByteofInterest's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteofInterest&theme=ayu-mirage&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=catppuccin-latte)](https://git.io/streak-stats)
 
 ### 📈 GitHub Readme Stats
-![ByteofInterest's Stats](https://github-readme-stats.vercel.app/api?username=ByteofInterest&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![ByteofInterest's Stats](https://github-readme-stats.vercel.app/api?username=ByteofInterest&theme=catppuccin-latte&show_icons=true&hide_border=true&count_private=true)
 
 ### 💻 Top Languages
-![ByteofInterest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteofInterest&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![ByteofInterest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteofInterest&theme=catppuccin-latte&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **ByteOfInterest/ByteOfInterest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
