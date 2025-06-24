@@ -16,7 +16,7 @@ Hello! I'm ByteOfInterest, a passionate developer who loves coding and learning 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ByteOfInterest&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ByteOfInterest&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteOfInterest&show_icons=true&theme=vue-dark)
 
