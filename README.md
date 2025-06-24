@@ -14,15 +14,13 @@ Hello! I'm ByteOfInterest, a passionate developer who loves coding and learning 
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark" alt="GitHub Streak Stats">
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ByteOfInterest&theme=vue-dark)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteOfInterest&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteOfInterest&layout=compact&theme=vue-dark)
 
 <!--
 **ByteOfInterest/ByteOfInterest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
