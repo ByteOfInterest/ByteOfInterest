@@ -6,25 +6,22 @@ Hello! I'm ByteOfInterest, a passionate developer who loves coding and learning 
 - 🌍 Location: Sweden
 - 🎓 Education: Network Security
 - 🌱 Currently Learning: JavaScript, Go, Python, Java
+- 🔭 I’m currently working on Vulnerability Scanning Tool and my personal website
 
 ## 📫 How to reach me: (will be added soon)
-- [LinkedIn]() 
-- [Instagram]()
 - [YouTube]()
 - [Personal Website]()
 
 ## GitHub Stats
 
 <table>
-    <tr>
-        <td colspan="4" rowspan="4">
-            <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark">
-            </a>
-        </a>
-        </td>
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark" alt="GitHub Streak Stats">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!--
