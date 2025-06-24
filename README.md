@@ -1,27 +1,34 @@
 ## 👋 Welcome to My GitHub Profile!
 
-Hello! I'm ByteOfInterest, a passionate developer who loves coding and learning new technologies. I'm excited to share my projects with you. Feel free to explore!
+Hello! I'm **ByteOfInterest**, a passionate developer who loves coding and learning new technologies. I'm excited to share my projects with you — feel free to explore!
 
-## About Me
-- 🌍 Location: Sweden
-- 🎓 Education: Network Security
-- 🌱 Currently Learning: JavaScript, Go, Python, Java
-- 🔭 I’m currently working on Vulnerability Scanning Tool and my personal website
+---
 
-## 📫 How to reach me: (will be added soon)
-- [YouTube]()
-- [Personal Website]()
+## 🧑‍💻 About Me
 
-## GitHub Stats
+- 🌍 Location: Sweden  
+- 🎓 Education: Network Security  
+- 🌱 Currently Learning: JavaScript, Go, Python, Java  
+- 🔭 Currently Working On: Vulnerability Scanning Tool and Personal Website  
+
+---
+
+## 📫 How to Reach Me
+- [YouTube](#)
+- [Personal Website](#)
+
+---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+### 📈 GitHub Readme Stats
+[![ByteOfInterest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteOfInterest&show_icons=true&theme=vue-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteOfInterest&show_icons=true&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteOfInterest&layout=compact&theme=vue-dark)
+### 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteOfInterest&layout=compact&theme=vue-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ByteOfInterest/ByteOfInterest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
