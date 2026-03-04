@@ -13,9 +13,9 @@ Hello! I'm **ByteOfInterest**, a passionate developer who loves coding and learn
 
 ---
 
-## 📫 How to Reach Me
+<!-- ## 📫 How to Reach Me
 - [YouTube](#)
-- [Personal Website](#)
+- [Personal Website](#) -->
 
 ---
 
@@ -24,11 +24,11 @@ Hello! I'm **ByteOfInterest**, a passionate developer who loves coding and learn
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=ayu-mirage)](https://git.io/streak-stats)
 
-### 📈 GitHub Readme Stats
+<!-- ### 📈 GitHub Readme Stats
 ![ByteofInterest's Stats](https://github-readme-stats.vercel.app/api?username=ByteofInterest&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
 ### 💻 Top Languages
-![ByteofInterest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteofInterest&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![ByteofInterest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteofInterest&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact) -->
 
 <!--
 **ByteOfInterest/ByteOfInterest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
