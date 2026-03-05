@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **ByteOfInterest**, a passionate developer who loves coding and learning new technologies. I'm excited to share my projects with you — feel free to explore!
+Hello! I'm **ByteOfInterest**, learning something new everyday. Challenge - hit 200 days streak. How much can I learn if I'm consistent?
 
 ---
 
