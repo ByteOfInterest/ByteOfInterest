@@ -1,7 +1,7 @@
 ## 👋 Welcome to My GitHub Profile!
 
 Hello! I'm **ByteOfInterest**, learning something new everyday. Challenge - hit 30 days streak. How much can I learn if I'm consistent?
-Goal - build a small project every week
+Goal - build a small project every day
 
 ---
 
