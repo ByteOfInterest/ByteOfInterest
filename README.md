@@ -10,7 +10,7 @@ Goal - build a small project every day
 - 🌍 Location: Sweden  
 - 🎓 Studying: Network Security  
 - 🌱 Currently Learning: JavaScript, Go, Python, Java  
-- 🔭 Currently Working On: Vulnerability Scanning Tool and Personal Website  
+- 🔭 Currently Working On: Vulnerability Scanning Tool and Clash Of clans clans website
 
 ---
 
