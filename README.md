@@ -22,7 +22,7 @@ Goal - build a small project every day
 
 ## 📊 GitHub Stats
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=ayu-mirage)](https://git.io/streak-stats)
+<!-- ### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=ByteOfInterest&theme=ayu-mirage)](https://git.io/streak-stats) -->
 
 
